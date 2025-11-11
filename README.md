@@ -17,7 +17,7 @@ This is the current home of ongoing **Basic Probe Driver** work
 | Local Directory | GitHub Repository | Submodule Path | Version | Purpose |
 |----------------|-------------------|----------------|---------|---------|
 | `forge-vhdl-v4/` | [sealablab/forge-vhdl-v4](https://github.com/sealablab/forge-vhdl-v4) | `libs/forge-vhdl` | v4.0.0+ | VHDL component library (digital scaling) |
-| `forge-moku-v4/` | [sealablab/moku-models-v4](https://github.com/sealablab/moku-models-v4) | `libs/forge-moku` | v4.2.0+ | Moku platform integration (models, deployment, serialization, AI) |
+| `moku-models-v4/` | [sealablab/moku-models-v4](https://github.com/sealablab/moku-models-v4) | `libs/moku-models` | v4.2.0+ | Moku platform integration (models, deployment, serialization, AI) |
 | `riscure-models-v4/` | [sealablab/riscure-models-v4](https://github.com/sealablab/riscure-models-v4) | `libs/riscure-models` | v4.0.0+ | Probe specifications (template) |
 
 ### 📝 Notes
@@ -34,7 +34,7 @@ This is the current home of ongoing **Basic Probe Driver** work
 BPD-forge-v4/
 ├── libs/
 │   ├── forge-vhdl/        → https://github.com/sealablab/forge-vhdl-v4
-│   ├── forge-moku/        → https://github.com/sealablab/moku-models-v4
+│   ├── moku-models/        → https://github.com/sealablab/moku-models-v4
 │   └── riscure-models/    → https://github.com/sealablab/riscure-models-v4
 ├── examples/
 ```
