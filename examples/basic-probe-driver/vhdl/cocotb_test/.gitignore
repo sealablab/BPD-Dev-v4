@@ -1,8 +1,0 @@
-__pycache__/
-sim_build/
-*.pyc
-
-# MCC workflow - ignore contents but keep structure
-mcc/in/*
-mcc/out/*
-!mcc/out/.gitkeep
