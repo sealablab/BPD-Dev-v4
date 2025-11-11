@@ -1,11 +1,11 @@
-# forge-v4 Architecture
+# BPD-Dev-v4
 
 > **Version:** 4.0.0
 > **Last Updated:** 2025-11-10
 > **Purpose:** Authoritative naming and repository structure for v4 architecture
 
 ---
-
+This is the current home of ongoing **Basic Probe Driver** work
 ## 🎯 Design Philosophy
 
 **Key Principle:** Each module is a **standalone, reusable Git repository** that can exist independently OR be composed into monorepos via Git submodules.
