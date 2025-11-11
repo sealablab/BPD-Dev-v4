@@ -7,3 +7,6 @@
 [submodule "libs/riscure-models"]
 	path = libs/riscure-models
 	url = https://github.com/sealablab/riscure-models-v4
+[submodule "Obsidian"]
+	path = Obsidian
+	url = https://github.com/sealablab/BPD-Dev-v4-notes
